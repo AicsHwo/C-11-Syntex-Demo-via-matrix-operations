@@ -20,3 +20,4 @@ Execution is under Windows 10
 
 ![alt text](2.PNG "one can verify its correctness")
 
+### No External library required !!!
